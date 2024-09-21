@@ -1,0 +1,22 @@
+echo "# site" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/lrondan/prociencia.git
+git push -u origin main
+
+git remote add origin https://github.com/lrodndan/prociencia.git
+git branch -M main
+git push -u origin main
+
+user: public
+password: private
+gmail: public
+
+developer-desarrollador{
+Luis Alexis Rojas Rondan
+lrondan1126@gmail.com
+https://lrondan.github.io/blog/
+HTML, CSS, JS, Python
+}
